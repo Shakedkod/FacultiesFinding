@@ -30,10 +30,10 @@ jobs:
         run: npm ci
       
       - name: Compile TypeScript
-        run: npm run build
+        run: npx tsc
       
       - name: Run data scraping script
-        run: npm run scrape-data
+        run: node dist/scrape-data.js
       
       - name: Commit and push if data changed
         run: |
