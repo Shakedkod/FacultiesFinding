@@ -38,4 +38,5 @@ jobs:
           git config --global user.email 'actions@github.com'
           git add data/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update data - $(date '+%Y-%m-%d')"
-          git push x-access-token:${{ secrets.GH_TOKEN }}@github.com/Shakedkod/FacultiesFinding.git HEAD:main
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Shakedkod/FacultiesFinding.git
+          git push origin main
