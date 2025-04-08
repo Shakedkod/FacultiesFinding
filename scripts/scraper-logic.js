@@ -1,16 +1,10 @@
-import axios from "axios";
-import * as cheerio from "cheerio";
-import type { FacultyData, PathData } from "./faculty";
+const axios = require("axios");
+const cheerio = require("cheerio");
 
 /**
  * Extract a proper URL from various link types including .NET postback links
  */
-function extractProgramUrl(
-    href: string,
-    programId: string,
-    currentYear: number,
-    facultyId: number
-): string 
+function extractProgramUrl(href, programId, currentYear, facultyId) 
 {
     // Default fallback URL
     const fallbackUrl = `https://catalog.huji.ac.il/pages/wfrMaslulDetails.aspx?year=${currentYear}&faculty=0&entityId=${facultyId}&chugId=${facultyId}&degreeCode=0&maslulId=${programId}`;
@@ -62,12 +56,7 @@ function extractProgramUrl(
 /**
  * Process a program element and extract its data
  */
-function extractProgramData(
-    $element: cheerio.Cheerio<any>,
-    $: cheerio.CheerioAPI,
-    currentYear: number,
-    facultyId: number
-): PathData | null 
+function extractProgramData($element, $, currentYear, facultyId) 
 {
     const text = $element.text().trim();
     const href = $element.attr('href') || '';
@@ -89,10 +78,10 @@ function extractProgramData(
     };
 }
 
-export async function GET(start: number = 100, end: number = 999) : Promise<FacultyData[] | null>
+export async function GET(start = 100, end = 999)
 {
     const currentYear = new Date().getFullYear();
-    const validFaculties: FacultyData[] = [];
+    const validFaculties = [];
 
     for (let id = start; id <= end; id++) 
     {
@@ -124,13 +113,13 @@ export async function GET(start: number = 100, end: number = 999) : Promise<Facu
                 return null;
             }
 
-            const $ = cheerio.load(data) as cheerio.CheerioAPI;
+            const $ = cheerio.load(data);
 
             // Extract the faculty name
             const title = $('span#lblChugName').text().trim();
 
             // Find all program links
-            const programs: PathData[] = [];
+            const programs = [];
 
             // Process primary selector
             const programElements = $('ul li a.contentsAnchor').toArray();

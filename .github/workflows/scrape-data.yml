@@ -29,11 +29,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
       
-      - name: Compile TypeScript
-        run: npx tsc
-      
-      - name: Run data scraping script
-        run: node dist/scrape-data.js
+      - name: Run scraping script
+        run: node scripts/scrape-data.js
       
       - name: Commit and push if data changed
         run: |
