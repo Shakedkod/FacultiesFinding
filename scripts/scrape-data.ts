@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const logic = require('./scraper-logic');
-import { FacultyData } from './faculty';
+import type { FacultyData } from './faculty';
 
 // Ensure data directory exists
 const dataDir = path.join(__dirname, '../data');

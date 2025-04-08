@@ -1,6 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-import { FacultyData, PathData } from "./faculty";
+import type { FacultyData, PathData } from "./faculty";
 
 /**
  * Extract a proper URL from various link types including .NET postback links
