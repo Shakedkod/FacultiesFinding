@@ -1,7 +1,7 @@
 // scripts/scrape-data.js
-import fs from 'fs';
-import path from 'path';
-import { GET } from './scraper-logic';
+const fs = require('fs');
+const path = require('path');
+const logic = require('./scraper-logic');
 import { FacultyData } from './faculty';
 
 // Ensure data directory exists
@@ -23,7 +23,7 @@ async function runScraper()
         // This is similar to your API route but adapted to run as a standalone script
 
         // Similar logic to your API endpoint
-        const faculties: FacultyData[] | null = await GET(start, end); 
+        const faculties: FacultyData[] | null = await logic.GET(start, end); 
 
         if (!faculties) 
         {
