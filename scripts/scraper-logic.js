@@ -132,7 +132,7 @@ async function GET(start = 100, end = 999)
 
             if (programs.length > 0) 
             {
-                console.log(`Found ${programs.length} in faculty ${id}`);
+                console.log(`Found ${programs.length} in faculty ${title}`);
                 validFaculties.push({
                     id,
                     name: title,
@@ -152,7 +152,7 @@ async function GET(start = 100, end = 999)
 
                 if (programs.length > 0) 
                 {
-                    console.log(`Found ${programs.length} in faculty ${id} using alternate selector`);
+                    console.log(`Found ${programs.length} in faculty ${title} using alternate selector`);
                     validFaculties.push({
                         id,
                         name: title || `Faculty ${id}`,
