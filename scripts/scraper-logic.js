@@ -169,7 +169,7 @@ async function GET(start = 100, end = 999)
     }
 
     // Sort faculties by name
-    data.sort((a, b) => {
+    validFaculties.sort((a, b) => {
         if (a.name < b.name) return -1;
         if (a.name > b.name) return 1;
         return 0;
