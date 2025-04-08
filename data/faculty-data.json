@@ -1,7 +1,7 @@
 [
   {
     "id": 101,
-    "name": "מקרא (101) - לימודים לתואר בוגר",
+    "name": "מקרא (101)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=101&degreeCode=1",
     "programs": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "id": 102,
-    "name": "תלמוד והלכה (102) - לימודים לתואר בוגר",
+    "name": "תלמוד והלכה (102)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=102&degreeCode=1",
     "programs": [
       {
@@ -40,7 +40,7 @@
   },
   {
     "id": 105,
-    "name": "היסטוריה של עם ישראל ויהדות זמננו (105) - לימודים לתואר בוגר",
+    "name": "היסטוריה של עם ישראל ויהדות זמננו (105)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=105&degreeCode=1",
     "programs": [
       {
@@ -62,7 +62,7 @@
   },
   {
     "id": 108,
-    "name": "ספרות עברית (108) - לימודים לתואר בוגר",
+    "name": "ספרות עברית (108)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=108&degreeCode=1",
     "programs": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "id": 109,
-    "name": "הלשון העברית (109) - לימודים לתואר בוגר",
+    "name": "הלשון העברית (109)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=109&degreeCode=1",
     "programs": [
       {
@@ -106,7 +106,7 @@
   },
   {
     "id": 113,
-    "name": "מחשבת ישראל (113) - לימודים לתואר בוגר",
+    "name": "מחשבת ישראל (113)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=113&degreeCode=1",
     "programs": [
       {
@@ -123,7 +123,7 @@
   },
   {
     "id": 115,
-    "name": "מדעי היהדות (115) - לימודים לתואר בוגר",
+    "name": "מדעי היהדות (115)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=115&degreeCode=1",
     "programs": [
       {
@@ -140,7 +140,7 @@
   },
   {
     "id": 122,
-    "name": "לימודי האסלאם והמזרח התיכון (122) - לימודים לתואר בוגר",
+    "name": "לימודי האסלאם והמזרח התיכון (122)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=122&degreeCode=1",
     "programs": [
       {
@@ -202,7 +202,7 @@
   },
   {
     "id": 123,
-    "name": "שפה וספרות ערבית (123) - לימודים לתואר בוגר",
+    "name": "שפה וספרות ערבית (123)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=123&degreeCode=1",
     "programs": [
       {
@@ -229,7 +229,7 @@
   },
   {
     "id": 124,
-    "name": "לימודי אסיה (124) - לימודים לתואר בוגר",
+    "name": "לימודי אסיה (124)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=124&degreeCode=1",
     "programs": [
       {
@@ -311,7 +311,7 @@
   },
   {
     "id": 127,
-    "name": "חבצלות (127) - לימודים לתואר בוגר",
+    "name": "חבצלות (127)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=127&degreeCode=1",
     "programs": [
       {
@@ -333,7 +333,7 @@
   },
   {
     "id": 140,
-    "name": "פילוסופיה (140) - לימודים לתואר בוגר",
+    "name": "פילוסופיה (140)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=140&degreeCode=1",
     "programs": [
       {
@@ -390,7 +390,7 @@
   },
   {
     "id": 141,
-    "name": "מדע הדתות (141) - לימודים לתואר בוגר",
+    "name": "מדע הדתות (141)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=141&degreeCode=1",
     "programs": [
       {
@@ -432,7 +432,7 @@
   },
   {
     "id": 143,
-    "name": "מדעי הקוגניציה והמוח (143) - לימודים לתואר בוגר",
+    "name": "מדעי הקוגניציה והמוח (143)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=143&degreeCode=1",
     "programs": [
       {
@@ -479,7 +479,7 @@
   },
   {
     "id": 146,
-    "name": "תואר כפול במדעי הקוגינציה והמוח ובצלאל (146) - לימודים לתואר בוגר",
+    "name": "תואר כפול במדעי הקוגינציה והמוח ובצלאל (146)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=146&degreeCode=1",
     "programs": [
       {
@@ -491,7 +491,7 @@
   },
   {
     "id": 150,
-    "name": "ארכאולוגיה והמזרח הקרוב הקדום (150) - לימודים לתואר בוגר",
+    "name": "ארכאולוגיה והמזרח הקרוב הקדום (150)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=150&degreeCode=1",
     "programs": [
       {
@@ -518,7 +518,7 @@
   },
   {
     "id": 151,
-    "name": "היסטוריה (151) - לימודים לתואר בוגר",
+    "name": "היסטוריה (151)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=151&degreeCode=1",
     "programs": [
       {
@@ -540,7 +540,7 @@
   },
   {
     "id": 155,
-    "name": "לימודים ספרדיים ולטינו-אמריקניים (155) - לימודים לתואר בוגר",
+    "name": "לימודים ספרדיים ולטינו-אמריקניים (155)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=155&degreeCode=1",
     "programs": [
       {
@@ -562,7 +562,7 @@
   },
   {
     "id": 156,
-    "name": "לימודים רוסיים וסלאוויים (156) - לימודים לתואר בוגר",
+    "name": "לימודים רוסיים וסלאוויים (156)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=156&degreeCode=1",
     "programs": [
       {
@@ -584,7 +584,7 @@
   },
   {
     "id": 157,
-    "name": "שפה וספרות גרמנית (157) - לימודים לתואר בוגר",
+    "name": "שפה וספרות גרמנית (157)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=157&degreeCode=1",
     "programs": [
       {
@@ -596,7 +596,7 @@
   },
   {
     "id": 158,
-    "name": "ביה\"ס להיסטוריה - תכנית מצטיינים (158) - לימודים לתואר בוגר",
+    "name": "ביה\"ס להיסטוריה",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=158&degreeCode=1",
     "programs": [
       {
@@ -608,7 +608,7 @@
   },
   {
     "id": 172,
-    "name": "לימודים קלאסיים (172) - לימודים לתואר בוגר",
+    "name": "לימודים קלאסיים (172)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=172&degreeCode=1",
     "programs": [
       {
@@ -635,7 +635,7 @@
   },
   {
     "id": 176,
-    "name": "אנגלית (176) - לימודים לתואר בוגר",
+    "name": "אנגלית (176)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=176&degreeCode=1",
     "programs": [
       {
@@ -647,7 +647,7 @@
   },
   {
     "id": 179,
-    "name": "לימודים רומאניים (179) - לימודים לתואר בוגר",
+    "name": "לימודים רומאניים (179)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=179&degreeCode=1",
     "programs": [
       {
@@ -674,7 +674,7 @@
   },
   {
     "id": 180,
-    "name": "ספרות כללית והשוואתית (180) - לימודים לתואר בוגר",
+    "name": "ספרות כללית והשוואתית (180)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=180&degreeCode=1",
     "programs": [
       {
@@ -706,7 +706,7 @@
   },
   {
     "id": 181,
-    "name": "בלשנות (181) - לימודים לתואר בוגר",
+    "name": "בלשנות (181)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=181&degreeCode=1",
     "programs": [
       {
@@ -743,7 +743,7 @@
   },
   {
     "id": 192,
-    "name": "היחידה ללימודי שפות (192) - לימודים לתואר בוגר",
+    "name": "היחידה ללימודי שפות (192)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=192&degreeCode=1",
     "programs": [
       {
@@ -755,7 +755,7 @@
   },
   {
     "id": 197,
-    "name": "תולדות האמנות (197) - לימודים לתואר בוגר",
+    "name": "תולדות האמנות (197)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=197&degreeCode=1",
     "programs": [
       {
@@ -772,7 +772,7 @@
   },
   {
     "id": 198,
-    "name": "תולדות התאטרון (198) - לימודים לתואר בוגר",
+    "name": "תולדות התאטרון (198)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=198&degreeCode=1",
     "programs": [
       {
@@ -789,7 +789,7 @@
   },
   {
     "id": 199,
-    "name": "מוסיקולוגיה (199) - לימודים לתואר בוגר",
+    "name": "מוסיקולוגיה (199)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=199&degreeCode=1",
     "programs": [
       {
@@ -806,7 +806,7 @@
   },
   {
     "id": 200,
-    "name": "חינוך (200) - לימודים לתואר בוגר",
+    "name": "חינוך (200)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=200&degreeCode=1",
     "programs": [
       {
@@ -858,7 +858,7 @@
   },
   {
     "id": 201,
-    "name": "לימודי הוראה - תעודת הוראה (201) - לימודים לתואר בוגר",
+    "name": "לימודי הוראה",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=201&degreeCode=1",
     "programs": [
       {
@@ -870,7 +870,7 @@
   },
   {
     "id": 202,
-    "name": "תכנית \"רביבים\" (202) - לימודים לתואר בוגר",
+    "name": "תכנית \"רביבים\" (202)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=202&degreeCode=1",
     "programs": [
       {
@@ -882,7 +882,7 @@
   },
   {
     "id": 222,
-    "name": "תוכנית הרב תחומית במדעי הרוח (222) - לימודים לתואר בוגר",
+    "name": "תוכנית הרב תחומית במדעי הרוח (222)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=222&degreeCode=1",
     "programs": [
       {
@@ -1084,7 +1084,7 @@
   },
   {
     "id": 225,
-    "name": "תוכנית רב תחומית לכוחות הביטחון (225) - לימודים לתואר בוגר",
+    "name": "תוכנית רב תחומית לכוחות הביטחון (225)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=225&degreeCode=1",
     "programs": [
       {
@@ -1096,7 +1096,7 @@
   },
   {
     "id": 255,
-    "name": "אמירים - תכנית מצטיינים (255) - לימודים לתואר בוגר",
+    "name": "אמירים",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=255&degreeCode=1",
     "programs": [
       {
@@ -1108,7 +1108,7 @@
   },
   {
     "id": 300,
-    "name": "פסיכולוגיה (300) - לימודים לתואר בוגר",
+    "name": "פסיכולוגיה (300)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=300&degreeCode=1",
     "programs": [
       {
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 301,
-    "name": "סוציולוגיה ואנתרופולוגיה (301) - לימודים לתואר בוגר",
+    "name": "סוציולוגיה ואנתרופולוגיה (301)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=301&degreeCode=1",
     "programs": [
       {
@@ -1192,7 +1192,7 @@
   },
   {
     "id": 311,
-    "name": "מדע המדינה (311) - לימודים לתואר בוגר",
+    "name": "מדע המדינה (311)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=311&degreeCode=1",
     "programs": [
       {
@@ -1214,7 +1214,7 @@
   },
   {
     "id": 312,
-    "name": "יחסים בין-לאומיים (312) - לימודים לתואר בוגר",
+    "name": "יחסים בין-לאומיים (312)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=312&degreeCode=1",
     "programs": [
       {
@@ -1231,7 +1231,7 @@
   },
   {
     "id": 318,
-    "name": "צירוף פסיכולוגיה ומדעי החיים (318) - לימודים לתואר בוגר",
+    "name": "צירוף פסיכולוגיה ומדעי החיים (318)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=318&degreeCode=1",
     "programs": [
       {
@@ -1243,7 +1243,7 @@
   },
   {
     "id": 320,
-    "name": "סטטיסטיקה (320) - לימודים לתואר בוגר",
+    "name": "סטטיסטיקה (320)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=320&degreeCode=1",
     "programs": [
       {
@@ -1255,7 +1255,7 @@
   },
   {
     "id": 321,
-    "name": "כלכלה (321) - לימודים לתואר בוגר",
+    "name": "כלכלה (321)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=321&degreeCode=1",
     "programs": [
       {
@@ -1327,7 +1327,7 @@
   },
   {
     "id": 322,
-    "name": "מנהל עסקים (322) - לימודים לתואר בוגר",
+    "name": "מנהל עסקים (322)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=322&degreeCode=1",
     "programs": [
       {
@@ -1374,7 +1374,7 @@
   },
   {
     "id": 323,
-    "name": "תקשורת ועיתונאות (323) - לימודים לתואר בוגר",
+    "name": "תקשורת ועיתונאות (323)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=323&degreeCode=1",
     "programs": [
       {
@@ -1396,7 +1396,7 @@
   },
   {
     "id": 325,
-    "name": "חשבונאות (325) - לימודים לתואר בוגר",
+    "name": "חשבונאות (325)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=325&degreeCode=1",
     "programs": [
       {
@@ -1423,7 +1423,7 @@
   },
   {
     "id": 326,
-    "name": "פילוסופיה,כלכלה,מדע המדינה (פכ\"מ) (326) - לימודים לתואר בוגר",
+    "name": "פילוסופיה,כלכלה,מדע המדינה (פכ\"מ) (326)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=326&degreeCode=1",
     "programs": [
       {
@@ -1455,7 +1455,7 @@
   },
   {
     "id": 386,
-    "name": "מנהל עסקים ולימודי אסיה (386) - לימודים לתואר בוגר",
+    "name": "מנהל עסקים ולימודי אסיה (386)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=386&degreeCode=1",
     "programs": [
       {
@@ -1467,7 +1467,7 @@
   },
   {
     "id": 401,
-    "name": "משפטים (401) - לימודים לתואר בוגר",
+    "name": "משפטים (401)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=401&degreeCode=1",
     "programs": [
       {
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 402,
-    "name": "משפטים עם חוג נוסף לתואר (402) - לימודים לתואר בוגר",
+    "name": "משפטים עם חוג נוסף לתואר (402)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=402&degreeCode=1",
     "programs": [
       {
@@ -1616,7 +1616,7 @@
   },
   {
     "id": 411,
-    "name": "קרימינולוגיה (411) - לימודים לתואר בוגר",
+    "name": "קרימינולוגיה (411)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=411&degreeCode=1",
     "programs": [
       {
@@ -1628,7 +1628,7 @@
   },
   {
     "id": 414,
-    "name": "מכפיל במשפטים (414) - לימודים לתואר בוגר",
+    "name": "מכפיל במשפטים (414)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=414&degreeCode=1",
     "programs": [
       {
@@ -1645,7 +1645,7 @@
   },
   {
     "id": 430,
-    "name": "עבודה סוציאלית עם חוג נוסף לתואר (430) - לימודים לתואר בוגר",
+    "name": "עבודה סוציאלית עם חוג נוסף לתואר (430)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=430&degreeCode=1",
     "programs": [
       {
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 431,
-    "name": "עבודה סוציאלית (431) - לימודים לתואר בוגר",
+    "name": "עבודה סוציאלית (431)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=431&degreeCode=1",
     "programs": [
       {
@@ -1734,7 +1734,7 @@
   },
   {
     "id": 520,
-    "name": "תכנית תלפיות (520) - לימודים לתואר בוגר",
+    "name": "תכנית תלפיות (520)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=520&degreeCode=1",
     "programs": [
       {
@@ -1796,7 +1796,7 @@
   },
   {
     "id": 521,
-    "name": "מדעי המחשב (521) - לימודים לתואר בוגר",
+    "name": "מדעי המחשב (521)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=521&degreeCode=1",
     "programs": [
       {
@@ -1918,7 +1918,7 @@
   },
   {
     "id": 523,
-    "name": "אמירים - תכנית מצטיינים - מחשבים (523) - לימודים לתואר בוגר",
+    "name": "אמירים",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=523&degreeCode=1",
     "programs": [
       {
@@ -1930,7 +1930,7 @@
   },
   {
     "id": 524,
-    "name": "מט\"ר- ממשקי טכנולוגיה, חברה ורשתות (מ.הטבע) (524) - לימודים לתואר בוגר",
+    "name": "מט\"ר- ממשקי טכנולוגיה, חברה ורשתות (מ.הטבע) (524)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=524&degreeCode=1",
     "programs": [
       {
@@ -1952,7 +1952,7 @@
   },
   {
     "id": 525,
-    "name": "מט\"ר - ממשקי טכנולוגיה, חברה ורשתות (525) - לימודים לתואר בוגר",
+    "name": "מט\"ר",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=525&degreeCode=1",
     "programs": [
       {
@@ -1994,7 +1994,7 @@
   },
   {
     "id": 529,
-    "name": "הוראת התכנות (529) - לימודים לתואר בוגר",
+    "name": "הוראת התכנות (529)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=529&degreeCode=1",
     "programs": [
       {
@@ -2006,7 +2006,7 @@
   },
   {
     "id": 530,
-    "name": "מתמטיקה (530) - לימודים לתואר בוגר",
+    "name": "מתמטיקה (530)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=530&degreeCode=1",
     "programs": [
       {
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 531,
-    "name": "מתמטיקה במסלול הוראה (531) - לימודים לתואר בוגר",
+    "name": "מתמטיקה במסלול הוראה (531)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=531&degreeCode=1",
     "programs": [
       {
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 532,
-    "name": "מדעי המחשב וביולוגיה חישובית (532) - לימודים לתואר בוגר",
+    "name": "מדעי המחשב וביולוגיה חישובית (532)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=532&degreeCode=1",
     "programs": [
       {
@@ -2137,7 +2137,7 @@
   },
   {
     "id": 541,
-    "name": "פיסיקה (541) - לימודים לתואר בוגר",
+    "name": "פיסיקה (541)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=541&degreeCode=1",
     "programs": [
       {
@@ -2239,7 +2239,7 @@
   },
   {
     "id": 551,
-    "name": "לימודים משלימים (קורסי בחירה) (551) - לימודים לתואר בוגר",
+    "name": "לימודים משלימים (קורסי בחירה) (551)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=551&degreeCode=1",
     "programs": [
       {
@@ -2251,7 +2251,7 @@
   },
   {
     "id": 553,
-    "name": "לימודי שפות אנגלית עברית (553) - לימודים לתואר בוגר",
+    "name": "לימודי שפות אנגלית עברית (553)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=553&degreeCode=1",
     "programs": [
       {
@@ -2263,7 +2263,7 @@
   },
   {
     "id": 555,
-    "name": "אמירים – תכנית מצטיינים - מדעי הטבע (555) - לימודים לתואר בוגר",
+    "name": "אמירים – תכנית מצטיינים",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=555&degreeCode=1",
     "programs": [
       {
@@ -2275,7 +2275,7 @@
   },
   {
     "id": 560,
-    "name": "כימיה (560) - לימודים לתואר בוגר",
+    "name": "כימיה (560)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=560&degreeCode=1",
     "programs": [
       {
@@ -2342,7 +2342,7 @@
   },
   {
     "id": 566,
-    "name": "מדעי הכימיה והביולוגיה (566) - לימודים לתואר בוגר",
+    "name": "מדעי הכימיה והביולוגיה (566)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=566&degreeCode=1",
     "programs": [
       {
@@ -2379,7 +2379,7 @@
   },
   {
     "id": 569,
-    "name": "תכנית משולבת: פיסיקה-כימיה (569) - לימודים לתואר בוגר",
+    "name": "תכנית משולבת: פיסיקה-כימיה (569)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=569&degreeCode=1",
     "programs": [
       {
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 570,
-    "name": "מדעי החיים (570) - לימודים לתואר בוגר",
+    "name": "מדעי החיים (570)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=570&degreeCode=1",
     "programs": [
       {
@@ -2483,7 +2483,7 @@
   },
   {
     "id": 580,
-    "name": "מדעי החיים בדגש בביו פיסיקה (580) - לימודים לתואר בוגר",
+    "name": "מדעי החיים בדגש בביו פיסיקה (580)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=580&degreeCode=1",
     "programs": [
       {
@@ -2495,7 +2495,7 @@
   },
   {
     "id": 581,
-    "name": "הנדסת חשמל ופיזיקה יישומית (581) - לימודים לתואר בוגר",
+    "name": "הנדסת חשמל ופיזיקה יישומית (581)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=581&degreeCode=1",
     "programs": [
       {
@@ -2522,7 +2522,7 @@
   },
   {
     "id": 583,
-    "name": "הנדסת חשמל ומדעי המחשב (583) - לימודים לתואר בוגר",
+    "name": "הנדסת חשמל ומדעי המחשב (583)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=583&degreeCode=1",
     "programs": [
       {
@@ -2534,7 +2534,7 @@
   },
   {
     "id": 586,
-    "name": "הנדסת חשמל ומחשבים עם התמחות בהנדסת מחשבים (586) - לימודים לתואר בוגר",
+    "name": "הנדסת חשמל ומחשבים עם התמחות בהנדסת מחשבים (586)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=586&degreeCode=1",
     "programs": [
       {
@@ -2546,7 +2546,7 @@
   },
   {
     "id": 587,
-    "name": "הנדסת חשמל ומחשבים עם התמחות באופטואלקטרוניקה ומיקרואלקטרוניקה (587) - לימודים לתואר בוגר",
+    "name": "הנדסת חשמל ומחשבים עם התמחות באופטואלקטרוניקה ומיקרואלקטרוניקה (587)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=587&degreeCode=1",
     "programs": [
       {
@@ -2558,7 +2558,7 @@
   },
   {
     "id": 591,
-    "name": "מדעי הסביבה (591) - לימודים לתואר בוגר",
+    "name": "מדעי הסביבה (591)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=591&degreeCode=1",
     "programs": [
       {
@@ -2620,7 +2620,7 @@
   },
   {
     "id": 595,
-    "name": "מדעי כדור הארץ (595) - לימודים לתואר בוגר",
+    "name": "מדעי כדור הארץ (595)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=595&degreeCode=1",
     "programs": [
       {
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 597,
-    "name": "מדעי המוח: חישוב ועיבוד מידע (597) - לימודים לתואר בוגר",
+    "name": "מדעי המוח: חישוב ועיבוד מידע (597)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=597&degreeCode=1",
     "programs": [
       {
@@ -2749,7 +2749,7 @@
   },
   {
     "id": 601,
-    "name": "רפואה (601) - לימודים לתואר בוגר",
+    "name": "רפואה (601)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=601&degreeCode=1",
     "programs": [
       {
@@ -2771,7 +2771,7 @@
   },
   {
     "id": 602,
-    "name": "מדעים ביורפואיים (602) - לימודים לתואר בוגר",
+    "name": "מדעים ביורפואיים (602)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=602&degreeCode=1",
     "programs": [
       {
@@ -2803,7 +2803,7 @@
   },
   {
     "id": 606,
-    "name": "אחיוּת (סיעוד) - \"הדסה\" (606) - לימודים לתואר בוגר",
+    "name": "אחיוּת (סיעוד)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=606&degreeCode=1",
     "programs": [
       {
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 607,
-    "name": "ריפוי בעיסוק (607) - לימודים לתואר בוגר",
+    "name": "ריפוי בעיסוק (607)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=607&degreeCode=1",
     "programs": [
       {
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 608,
-    "name": "אחיוּת (סיעוד) - \"אסף הרופא\" (608) - לימודים לתואר בוגר",
+    "name": "אחיוּת (סיעוד)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=608&degreeCode=1",
     "programs": [
       {
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 610,
-    "name": "אחיוּת (סיעוד) - \"קפלן\" (610) - לימודים לתואר בוגר",
+    "name": "אחיוּת (סיעוד)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=610&degreeCode=1",
     "programs": [
       {
@@ -2881,7 +2881,7 @@
   },
   {
     "id": 611,
-    "name": "רפואת שיניים (611) - לימודים לתואר בוגר",
+    "name": "רפואת שיניים (611)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=611&degreeCode=1",
     "programs": [
       {
@@ -2898,7 +2898,7 @@
   },
   {
     "id": 619,
-    "name": "אחיוּת (סיעוד) לחובשים- \"קפלן\" (619) - לימודים לתואר בוגר",
+    "name": "אחיוּת (סיעוד) לחובשים- \"קפלן\" (619)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=619&degreeCode=1",
     "programs": [
       {
@@ -2910,7 +2910,7 @@
   },
   {
     "id": 621,
-    "name": "רוקחות (621) - לימודים לתואר בוגר",
+    "name": "רוקחות (621)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=621&degreeCode=1",
     "programs": [
       {
@@ -2937,7 +2937,7 @@
   },
   {
     "id": 622,
-    "name": "הסבת אקדמאים לתואר בוגר אחיוּת (סיעוד) \"שמיר\" (אסף-הרופא) (622) - לימודים לתואר בוגר",
+    "name": "הסבת אקדמאים לתואר בוגר אחיוּת (סיעוד) \"שמיר\" (אסף-הרופא) (622)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=622&degreeCode=1",
     "programs": [
       {
@@ -2949,7 +2949,7 @@
   },
   {
     "id": 624,
-    "name": "רוקחות – תוכנית מצוינות, מסלול מואץ לתואר שלישי (624) - לימודים לתואר בוגר",
+    "name": "רוקחות – תוכנית מצוינות, מסלול מואץ לתואר שלישי (624)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=624&degreeCode=1",
     "programs": [
       {
@@ -2961,7 +2961,7 @@
   },
   {
     "id": 636,
-    "name": "אחיוּת (סיעוד) המסלול הצבאי \"פיסגה\" (636) - לימודים לתואר בוגר",
+    "name": "אחיוּת (סיעוד) המסלול הצבאי \"פיסגה\" (636)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=636&degreeCode=1",
     "programs": [
       {
@@ -2973,7 +2973,7 @@
   },
   {
     "id": 637,
-    "name": "רפואת שיניים- בינה (637) - לימודים לתואר בוגר",
+    "name": "רפואת שיניים- בינה (637)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=637&degreeCode=1",
     "programs": [
       {
@@ -2985,7 +2985,7 @@
   },
   {
     "id": 640,
-    "name": "רוקחות - תכנית הסבה (640) - לימודים לתואר בוגר",
+    "name": "רוקחות",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=640&degreeCode=1",
     "programs": [
       {
@@ -3002,7 +3002,7 @@
   },
   {
     "id": 642,
-    "name": "תואר כפול רוקחות -כימיה עם בר אילן (642) - לימודים לתואר בוגר",
+    "name": "תואר כפול רוקחות -כימיה עם בר אילן (642)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=642&degreeCode=1",
     "programs": [
       {
@@ -3014,7 +3014,7 @@
   },
   {
     "id": 645,
-    "name": "תוכנית לימודי אחיוּת (סיעוד) אקדמאי לפרמדיקים (645) - לימודים לתואר בוגר",
+    "name": "תוכנית לימודי אחיוּת (סיעוד) אקדמאי לפרמדיקים (645)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=645&degreeCode=1",
     "programs": [
       {
@@ -3026,7 +3026,7 @@
   },
   {
     "id": 681,
-    "name": "רפואה - המסלול הצבאי - צמרת (681) - לימודים לתואר בוגר",
+    "name": "רפואה",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=681&degreeCode=1",
     "programs": [
       {
@@ -3043,7 +3043,7 @@
   },
   {
     "id": 709,
-    "name": "מדעי הצמח בחקלאות וכלכלת סביבה וניהול (709) - לימודים לתואר בוגר",
+    "name": "מדעי הצמח בחקלאות וכלכלת סביבה וניהול (709)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=709&degreeCode=1",
     "programs": [
       {
@@ -3055,7 +3055,7 @@
   },
   {
     "id": 710,
-    "name": "מדעי הצמח בחקלאות (710) - לימודים לתואר בוגר",
+    "name": "מדעי הצמח בחקלאות (710)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=710&degreeCode=1",
     "programs": [
       {
@@ -3087,7 +3087,7 @@
   },
   {
     "id": 712,
-    "name": "מדעי התזונה (712) - לימודים לתואר בוגר",
+    "name": "מדעי התזונה (712)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=712&degreeCode=1",
     "programs": [
       {
@@ -3114,7 +3114,7 @@
   },
   {
     "id": 715,
-    "name": "אגרואקולוגיה ובריאות הצמח (715) - לימודים לתואר בוגר",
+    "name": "אגרואקולוגיה ובריאות הצמח (715)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=715&degreeCode=1",
     "programs": [
       {
@@ -3141,7 +3141,7 @@
   },
   {
     "id": 716,
-    "name": "מדעי הקרקע והמים (716) - לימודים לתואר בוגר",
+    "name": "מדעי הקרקע והמים (716)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=716&degreeCode=1",
     "programs": [
       {
@@ -3168,7 +3168,7 @@
   },
   {
     "id": 717,
-    "name": "כלכלת סביבה וניהול (717) - לימודים לתואר בוגר",
+    "name": "כלכלת סביבה וניהול (717)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=717&degreeCode=1",
     "programs": [
       {
@@ -3220,7 +3220,7 @@
   },
   {
     "id": 718,
-    "name": "מדעי בעלי החיים (718) - לימודים לתואר בוגר",
+    "name": "מדעי בעלי החיים (718)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=718&degreeCode=1",
     "programs": [
       {
@@ -3252,7 +3252,7 @@
   },
   {
     "id": 719,
-    "name": "מדעי קרקע ומים וכלכלת סביבה וניהול (719) - לימודים לתואר בוגר",
+    "name": "מדעי קרקע ומים וכלכלת סביבה וניהול (719)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=719&degreeCode=1",
     "programs": [
       {
@@ -3264,7 +3264,7 @@
   },
   {
     "id": 722,
-    "name": "ביוכימיה ומדעי המזון (722) - לימודים לתואר בוגר",
+    "name": "ביוכימיה ומדעי המזון (722)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=722&degreeCode=1",
     "programs": [
       {
@@ -3286,7 +3286,7 @@
   },
   {
     "id": 729,
-    "name": "ניהול מלונאות, משאבי מזון ותיירות (729) - לימודים לתואר בוגר",
+    "name": "ניהול מלונאות, משאבי מזון ותיירות (729)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=729&degreeCode=1",
     "programs": [
       {
@@ -3298,7 +3298,7 @@
   },
   {
     "id": 755,
-    "name": "אמירים - תכנית מצטיינים - מדעי החקלאות (755) - לימודים לתואר בוגר",
+    "name": "אמירים",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=755&degreeCode=1",
     "programs": [
       {
@@ -3310,7 +3310,7 @@
   },
   {
     "id": 791,
-    "name": "מדעי הצמח בחקלאות וביוטכנולוגיה (791) - לימודים לתואר בוגר",
+    "name": "מדעי הצמח בחקלאות וביוטכנולוגיה (791)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=791&degreeCode=1",
     "programs": [
       {
@@ -3322,7 +3322,7 @@
   },
   {
     "id": 792,
-    "name": "אגרואקולוגיה, בריאות הצמח וביוטכנולוגיה (792) - לימודים לתואר בוגר",
+    "name": "אגרואקולוגיה, בריאות הצמח וביוטכנולוגיה (792)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=792&degreeCode=1",
     "programs": [
       {
@@ -3334,7 +3334,7 @@
   },
   {
     "id": 793,
-    "name": "ביוכימיה, מדעי המזון וביוטכנולוגיה (793) - לימודים לתואר בוגר",
+    "name": "ביוכימיה, מדעי המזון וביוטכנולוגיה (793)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=793&degreeCode=1",
     "programs": [
       {
@@ -3346,7 +3346,7 @@
   },
   {
     "id": 794,
-    "name": "מדעי בעלי החיים וביוטכנולוגיה (794) - לימודים לתואר בוגר",
+    "name": "מדעי בעלי החיים וביוטכנולוגיה (794)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=794&degreeCode=1",
     "programs": [
       {
@@ -3358,7 +3358,7 @@
   },
   {
     "id": 795,
-    "name": "כלכלה סביבה וניהול וביוטכנולוגיה בחקלאות (795) - לימודים לתואר בוגר",
+    "name": "כלכלה סביבה וניהול וביוטכנולוגיה בחקלאות (795)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=795&degreeCode=1",
     "programs": [
       {
@@ -3370,7 +3370,7 @@
   },
   {
     "id": 802,
-    "name": "גאוגרפיה (802) - לימודים לתואר בוגר",
+    "name": "גאוגרפיה (802)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=802&degreeCode=1",
     "programs": [
       {
@@ -3397,7 +3397,7 @@
   },
   {
     "id": 821,
-    "name": "גאוגרפיה, סביבה וגאואינפורמטיקה (821) - לימודים לתואר בוגר",
+    "name": "גאוגרפיה, סביבה וגאואינפורמטיקה (821)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=821&degreeCode=1",
     "programs": [
       {
@@ -3429,7 +3429,7 @@
   },
   {
     "id": 824,
-    "name": "סטטיסטיקה ומדע הנתונים (824) - לימודים לתואר בוגר",
+    "name": "סטטיסטיקה ומדע הנתונים (824)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=824&degreeCode=1",
     "programs": [
       {
@@ -3476,7 +3476,7 @@
   },
   {
     "id": 991,
-    "name": "תכנית לימודים בשיתוף האקדמיה למוסיקה (991) - לימודים לתואר בוגר",
+    "name": "תכנית לימודים בשיתוף האקדמיה למוסיקה (991)",
     "url": "https://catalog.huji.ac.il/pages/WebChugInfoNew.aspx?year=2025&faculty=1&entityId=991&degreeCode=1",
     "programs": [
       {
