@@ -4,5 +4,8 @@
         "axios": "^1.6.0",
         "cheerio": "^1.0.0-rc.12",
         "fs": "^0.0.1-security"
+    },
+    "devDependencies": {
+        "typescript": "^5.8.3"
     }
 }
