@@ -78,7 +78,7 @@ function extractProgramData($element, $, currentYear, facultyId)
     };
 }
 
-export async function GET(start = 100, end = 999)
+async function GET(start = 100, end = 999)
 {
     const currentYear = new Date().getFullYear();
     const validFaculties = [];
@@ -171,3 +171,5 @@ export async function GET(start = 100, end = 999)
     console.log(`Scraping completed. Found ${validFaculties.length} valid faculties.`);
     return validFaculties;
 }
+
+module.exports = { GET };
