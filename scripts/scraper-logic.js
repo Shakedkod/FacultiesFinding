@@ -116,7 +116,7 @@ async function GET(start = 100, end = 999)
             const $ = cheerio.load(data);
 
             // Extract the faculty name
-            const title = $('span#lblChugName').text().trim();
+            const title = ($('span#lblChugName').text().trim()).split(' - ')[0];
 
             // Find all program links
             const programs = [];
