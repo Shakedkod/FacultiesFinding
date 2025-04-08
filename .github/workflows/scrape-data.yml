@@ -1,6 +1,10 @@
 name: Bi-Monthly Data Scraping
 
 on:
+  # Trigger on push to main branch and on a schedule
+  push:
+    branches:
+      - main
   schedule:
     # Run at midnight on the 1st of every even-numbered month (Feb, Apr, Jun, Aug, Oct, Dec)
     - cron: '0 0 1 2,4,6,8,10,12 *'
