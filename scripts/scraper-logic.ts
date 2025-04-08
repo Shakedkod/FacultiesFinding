@@ -63,7 +63,7 @@ function extractProgramUrl(
  * Process a program element and extract its data
  */
 function extractProgramData(
-    $element: cheerio.Cheerio,
+    $element: cheerio.Cheerio<any>,
     $: cheerio.CheerioAPI,
     currentYear: number,
     facultyId: number
